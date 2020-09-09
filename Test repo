@@ -1,0 +1,4 @@
+let j = 'Tanish';
+function newTest(name){
+  console.log(name);
+  }
